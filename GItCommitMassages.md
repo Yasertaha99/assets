@@ -1,5 +1,5 @@
 # **cheatsheet for writing good Git commit messages**
-- something simple you can follow every time. Here’s a practical one:
+- — something simple you can follow every time. Here’s a practical one:
 
 ---
 
