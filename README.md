@@ -1,4 +1,4 @@
-Perfect! Let’s make a **full, detailed visual workflow diagram** for a **Jira + Git SDLC workflow** including everything: Jira issues, Git branches, commits, PRs, QA, release, hotfix, CI/CD, and deployment. I’ll structure it step by step in a **diagram-style format** that you can also turn into a visual chart.
+**full, detailed visual workflow diagram** for a **Jira + Git SDLC workflow** including everything: Jira issues, Git branches, commits, PRs, QA, release, hotfix, CI/CD, and deployment. I’ll structure it step by step in a **diagram-style format** that you can also turn into a visual chart.
 
 ---
 
